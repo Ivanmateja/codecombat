@@ -52,8 +52,8 @@ module.exports = nativeDescription: "српски", englishDescription: "Serbian
 
   play:
 #    play_as: "Play As" # Ladder page
-#    compete: "Compete!" # Course details page
-#    spectate: "Spectate" # Ladder page
+#    compete: "Такмичи се!" # Course details page
+#    spectate: "Посматрај" # Ladder page
 #    players: "players" # Hover over a level on /play
 #    hours_played: "hours played" # Hover over a level on /play
 #    items: "Items" # Tooltip on item shop button from /play
